@@ -3,7 +3,7 @@
 
 > **Assessment 1 | AI for Business**
 > Student: Sayeef Md Irfan Karim|ID - 22692010| Business Field: E-Commerce / Retail
-> Model tested on: OpenAI- GPT-5.2
+> Model tested on: OpenAI- GPT-5.2, GPT-4.1 mini, GPT 4.0 mini
 > Last updated: 1 April 2026
 
 ---
